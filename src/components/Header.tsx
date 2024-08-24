@@ -35,7 +35,7 @@ const Header = () => {
           <h2 className="text-[#233654] sm:text-3xl font-bold">KIPKUNUR FC</h2>
         </div>
         <nav className="md:ml-6 lg:ml-12 hidden md:flex space-x-6">
-          <ul className="flex gap-6">
+          <ul className="flex gap-6 ">
             <li className="text-black font-semibold hover:text-primary hover:scale-110 transition duration-300">
               <a href="#">Home</a>
             </li>

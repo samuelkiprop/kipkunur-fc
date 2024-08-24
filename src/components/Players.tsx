@@ -4,7 +4,7 @@ import Midfielder from "../assets/images/midfielder.png";
 import Striker from "../assets/images/striker.png";
 
 interface PlayersProps {
-  players: Players;
+  players: PlayersList;
 }
 
 interface Player {
@@ -14,7 +14,7 @@ interface Player {
   position: string;
 }
 
-interface Players {
+interface PlayersList {
   Defenders: Player[];
   Goal_Keepers: Player[];
   Midfilders: Player[];
