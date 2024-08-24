@@ -37,22 +37,22 @@ const Header = () => {
         <nav className="md:ml-6 lg:ml-12 hidden md:flex space-x-6">
           <ul className="flex gap-6 ">
             <li className="text-black font-semibold hover:text-primary hover:scale-110 transition duration-300">
-              <a href="#">Home</a>
+              <a href="https://awesam.io">Home</a>
             </li>
             <li className="text-black font-semibold hover:text-primary hover:scale-110 transition duration-300">
-              <a href="#">About</a>
+              <a href="https://awesam.io">About</a>
             </li>
             <li className="text-black font-semibold hover:text-primary hover:scale-110 transition duration-300">
-              <a href="#">Stats</a>
+              <a href="https://awesam.io">Stats</a>
             </li>
             <li className="text-black font-semibold hover:text-primary hover:scale-110 transition duration-300">
-              <a href="#">Players</a>
+              <a href="https://awesam.io">Players</a>
             </li>
             <li className="text-black font-semibold hover:text-primary hover:scale-110 transition duration-300">
-              <a href="#">Gallery</a>
+              <a href="https://awesam.io">Gallery</a>
             </li>
             <li className="text-black font-semibold hover:text-primary hover:scale-110 transition duration-300">
-              <a href="#">Contact</a>
+              <a href="https://awesam.io">Contact</a>
             </li>
           </ul>
         </nav>
