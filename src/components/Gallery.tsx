@@ -1,6 +1,3 @@
-import React from 'react';
-
-// Define the GalleryImage interface for image data
 interface GalleryImage {
   id: number;
   title: string;
